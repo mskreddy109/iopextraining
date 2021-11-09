@@ -1,0 +1,36 @@
+
+
+.nav {
+    background-color:floralwhite;
+text-align: right;
+}
+.nav h1{
+    
+    color: chartreuse;
+    text-align: center;
+}
+.reg-main{
+    font-size:smaller;
+  display: block;
+  margin: auto;
+    
+   text-align: center;
+    position: relative;
+    background:cornsilk;
+    width: 40%;
+  
+}
+.reg-main h1{
+  color: hotpink;
+}
+
+
+.reg-input::placeholder {
+    color: #071401;
+    font-size: 12px;
+  }
+.reg-label{
+  width: 150px;
+  display: inline-block;
+}
+
