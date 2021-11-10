@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Storing from './Storing';
+import Storing from '../../Storing';
 import Validate from './Validate';
 export default function Registration({ submitForm }){
     const { handleChange, handleSubmit, values, errors } = Storing(
